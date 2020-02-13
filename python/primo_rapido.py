@@ -1,3 +1,5 @@
+#1221
+
 from math import sqrt
 #criando uma lista de numeros primos usando o crivo de Eratóstenes
 def found_prime(value: int):

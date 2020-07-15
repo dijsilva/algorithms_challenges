@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 vector<int> gradingStudents(vector<int> grades) {
     vector<int> newGRades;
 
